@@ -4,7 +4,10 @@ body {
 }
 
 header {
-	text-align: right;
+	text-align: left;
 	font-size: 25px;
 }
 
+a {
+	text-decoration: none;
+}

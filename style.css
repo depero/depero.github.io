@@ -1,3 +1,8 @@
 body {
-	background-color: #bfd2ef
+	background-color: #bfd2ef;
+}
+
+header {
+	background-color: black;
+	color: blue;
 }

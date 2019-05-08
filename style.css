@@ -4,12 +4,17 @@ body {
 }
 
 header {
+	background-color: black;
+	color: white;
 	text-align: right;
 	font-size: 25px;
+	font-style: bold;
 }
 
 a {
 	text-decoration: none;
+	color: white;
+	font-style: bold;
 }
 
 b {

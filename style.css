@@ -21,3 +21,11 @@ a {
 b {
 	float: left;
 }
+
+.footer { 
+	position: fixed;     
+	text-align: center;  
+	color: gray;	
+    bottom: 10px; 
+    width: 100%;
+} 

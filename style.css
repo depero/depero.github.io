@@ -22,14 +22,24 @@ b {
 	float: left;
 }
 
+h1 {
+	color: white;
+	background-image: url("images/stars/starsDark.jpg");
+	padding: 100px 0px 100px 0px;
+}
+
 p {
 	font-size: 20px;
 }
 
 .footer { 
-	position: fixed;     
-	text-align: center;  
+	position: static;     
+	text-align: center; 
+	padding: 20px 0px 20px 0px;
 	color: gray;	
-    bottom: 10px; 
+    bottom: 20px; 
     width: 100%;
-} 
+}
+
+
+

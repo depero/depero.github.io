@@ -24,7 +24,8 @@ b {
 
 h1 {
 	color: white;
-	background-image: url("images/stars/starsDark.jpg");
+	font-size: 40px;
+	background-image: url("images/starsDark.jpg");
 	padding: 100px 0px 100px 0px;
 }
 
